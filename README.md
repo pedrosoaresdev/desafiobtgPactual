@@ -14,10 +14,10 @@
 </p>
 
 ## Desafio
-- Confira o enunciado completo, [clicando aqui](./problem.md).
+- Confira o enunciado completo, [clicando aqui](problem.md).
 
 ## Como interagir com o banco de dados?
-- Utilizamos o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+- Utilizei o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
 ## Como interagir com a API?
 - Utilizei o [Bruno](https://github.com/usebruno/bruno) uma API rápida e que não dependa de nuvem
