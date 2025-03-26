@@ -14,7 +14,7 @@
 </p>
 
 ## Desafio
-- Confira o enunciado completo, [clicando aqui](problem.md).
+- Confira o enunciado completo, [clicando aqui](desafio.backend-btg-pactual/problem.md).
 
 ## Como interagir com o banco de dados?
 - Utilizei o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
