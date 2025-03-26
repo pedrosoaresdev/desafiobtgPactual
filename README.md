@@ -9,7 +9,7 @@
 
 <p align="center">
   <img alt="Language: Java" src="https://img.shields.io/badge/language-java-green">
-  <img alt="Version: 21.0" src="https://img.shields.io/badge/version-1.0-yellowgreen">
+  <img alt="Version: 21.0" src="https://img.shields.io/badge/version-21.0-yellowgreen">
 
 </p>
 
@@ -20,7 +20,7 @@
 - Utilizamos o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
 ## Como interagir com a API?
-- Utilizamos o [Bruno](https://github.com/usebruno/bruno)
+- Utilizei o [Bruno](https://github.com/usebruno/bruno) uma API rápida e que não dependa de nuvem
 
 ## :rocket: Tecnologias utilizadas
 
